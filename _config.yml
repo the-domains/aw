@@ -1,0 +1,28 @@
+name: aw
+favicon: null
+layout_spectrum: 0.8083253565710038
+typography_spectrum: 0.6732977468054742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9914129369426519
+  lightness: 0.11139456578530371
+  saturation: 0.9238024537917227
+  rhythmicContrast: 0.555934701114893
+purpose: []
